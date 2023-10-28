@@ -10,3 +10,4 @@ prevBoton.addEventListener('click', () => {
 nextBoton.addEventListener('click', () => {
   cardContainer.scrollBy(300, 0); // Desplaza hacia la derecha
 });
+
