@@ -183,11 +183,12 @@ form button:hover {
 
 /* Hero section */
 .hero {
-  background-image: url("/img/portada.jfif");
+  background-image: url("../img/portada.jpg");
   background-size: cover;
   color: #f0f0f0;
   padding: 150px 0;
 }
+
 .hero h2 {
   font-size: 4rem;
   text-align: center;
