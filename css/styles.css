@@ -495,4 +495,6 @@ footer a {
   height: auto;
 }
 
-
+#logo:hover {
+  width: 320px;
+}
