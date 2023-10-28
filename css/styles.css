@@ -187,15 +187,14 @@ form button:hover {
   background-size: cover;
   color: #f0f0f0;
   padding: 150px 0;
+  text-align: center;
 }
 
 .hero h2 {
   font-size: 4rem;
-  text-align: center;
 }
 .hero p {
   font-size: 2rem;
-  text-align: center;
 }
 
 .container2 {
